@@ -22,3 +22,6 @@ This project analyzes e-commerce sales data to identify sales trends, evaluate p
 
 ## Dashboard
 The Power BI dashboard presents key performance indicators, annual sales and profit, discount and profit margin trends, regional performance, and payment method distribution.
+## Dashboard Preview
+
+![E-commerce Sales Dashboard](images/Dashboard.PNG)
