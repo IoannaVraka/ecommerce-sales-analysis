@@ -23,9 +23,16 @@ Which regions, product categories, and discount levels drive profit for this e-c
 - **MySQL:** Data cleaning, data validation, and exploratory data analysis
 - **Power BI:** Dashboard development and data visualization
 - **DAX:** Creation of measures and key performance indicators (KPIs)
-  
+
 ## Data Preparation
 - Converted order dates to the appropriate date format.
 - Checked for duplicate records.
 - Identified and corrected a customer name encoding issue.
 - Performed data quality checks on payment methods.
+
+  ## Data
+- **Source:** [E-Commerce sales] by [Prince Rajak], Kaggle ([(https://www.kaggle.com/datasets/prince7489/e-commerce-sales?resource=download)])
+- **Size:** about 5,000 orders
+- **Process:** downloaded from Kaggle as a spreadsheet, imported into MySQL, then cleaned and analysed with SQL before visualising in Power BI
+- **Coverage:** Oct–Dec 2023 (3 months), Jan–Dec 2024 (12 months), Jan–Oct 2025 (10 months). Because coverage differs by year, trends are shown monthly and not as yearly totals.
+- **Currency:** all monetary values are in Indian rupees (₹)
