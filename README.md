@@ -30,8 +30,8 @@ Which regions, product categories, and discount levels drive profit for this e-c
 - Identified and corrected a customer name encoding issue.
 - Performed data quality checks on payment methods.
 
-  ## Data
-- **Source:** [E-Commerce sales] by [Prince Rajak], Kaggle ([(https://www.kaggle.com/datasets/prince7489/e-commerce-sales?resource=download)])
+## Data
+- **Source:** E-Commerce sales by Prince Rajak, Kaggle (https://www.kaggle.com/datasets/prince7489/e-commerce-sales?resource=download)
 - **Size:** about 5,000 orders
 - **Process:** downloaded from Kaggle as a spreadsheet, imported into MySQL, then cleaned and analysed with SQL before visualising in Power BI
 - **Coverage:** Oct–Dec 2023 (3 months), Jan–Dec 2024 (12 months), Jan–Oct 2025 (10 months). Because coverage differs by year, trends are shown monthly and not as yearly totals.
